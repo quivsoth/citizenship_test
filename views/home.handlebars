@@ -1,0 +1,33 @@
+<h1>US Citizenship Test</h1>
+<h2>Questions:</h2>
+{{!-- <ul>
+    {{#each selectedItems}}
+        <li>{{this.question}}</li>
+    {{/each}}
+</ul> --}}
+
+
+
+<div class="slideshow-container">
+    <div class="slideshow">
+        {{!-- <div class="slide"><img src="image1.jpg" alt="Image 1"></div>
+        <div class="slide"><img src="image2.jpg" alt="Image 2"></div>
+        <div class="slide"><img src="image3.jpg" alt="Image 3"></div> --}}
+    {{#each selectedItems}}
+        <div class="slide">
+            <h3>{{{this.question}}}</h3>            
+            <div id="toggleContent{{this.question_number}}" style="display: none;">
+                <p>{{{this.answer}}}</p>
+            </div>
+            <button id="toggleButton" onclick="toggleButton({{this.question_number}}, this)">Show</button>
+        </div>
+    {{/each}}
+
+    </div>
+    <!-- Navigation Buttons -->
+    <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
+    <button class="next" onclick="changeSlide(1)">&#10095;</button>
+</div>
+<script src="script.js"></script>
+
+    

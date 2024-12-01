@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+h3 {
+    padding-bottom: 8em;
+}
+
+form {
+    margin-top: 20px;
+}
+.slideshow-container {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.slideshow {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+    flex: 0 0 100%;
+    text-align: center;
+}
+
+.slide img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Navigation Buttons */
+button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+button.prev {
+    left: 10px;
+}
+
+button.next {
+    right: 10px;
+}
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+
+#toggleButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+#toggleContent {
+    padding: 10px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.question {
+    background-color: yellow;
+}
+
+.answer {
+    background-color: purple;
+}

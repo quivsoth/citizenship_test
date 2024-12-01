@@ -1,0 +1,31 @@
+{
+  "name": "citizenship_test",
+  "version": "1.0.0",
+  "description": "US Citizenship Tester",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quivsoth/citizenship_test.git"
+  },
+  "keywords": [
+    "citizenship",
+    "test"
+  ],
+  "author": "Phillip Knezevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quivsoth/citizenship_test/issues"
+  },
+  "homepage": "https://github.com/quivsoth/citizenship_test#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "bootstrap": "^5.3.3",
+    "express": "^4.21.1",
+    "express-handlebars": "^8.0.1",
+    "nodemon": "^3.1.7",
+    "path": "^0.12.7"
+  }
+}

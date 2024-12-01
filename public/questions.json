@@ -1,0 +1,404 @@
+[{
+   "question_number" : 1,
+    "question" : "<p class='question'>What is the supreme law of the land?</p>",
+    "answer" : "<p class='answer'>The Constitution</p>"
+},{
+    "question_number" : 2,
+    "question" : "<p class='question'>What does the Constitution do?</p>",
+    "answer" : "<p class='answer'><ul><li>sets up the government</li><li>defines the government</li><li>protects basic rights of Americans</li></ul></p>"
+},
+{
+    "question_number" : 3,
+    "question" : "<p class='question'>The idea of self-government is in the first three words of the Constitution.What are these words?</p>",
+    "answer" : "<p class='answer'>We the people</p>"
+},
+{
+    "question_number" : 4,
+    "question" : "<p class='question'>What is an amendment?</p>",
+    "answer" : "<p class='answer'><ul><li>A change (to the Constitution)</li><li>an addition (to the Constitution)</li></ul></p>"
+},
+{
+    "question_number" : 5,
+    "question" : "<p class='question'>What do we call the first ten amendments to the Constitution?</p>",
+    "answer" : "<p class='answer'>The Bill of Rights</p>"
+},{
+    "question_number" : 6,
+    "question" : "<p class='question'>What is one right or freedom from the First Amendment?</p>",
+    "answer" : "<p class='answer'><ul><li>speech</li><li>religion</li><li>assembly</li><li>press</li><li>petition the government</li></ul></p>"
+},{
+    "question_number" : 7,
+    "question" : "<p class='question'>How many amendments does the Constitution have?</p>",
+    "answer" : "<p class='answer'>twenty-seven (27)</p>"
+},{
+    "question_number" : 8,
+    "question" : "<p class='question'>What did the Declaration of Independence do?</p>",
+    "answer" : "<p class='answer'><ul><li>announced our independence (from Great Britain)</li><li>declared our independence (from Great Britain)</li><li>said that the United States is free (from Great Britain)</li></ul></p>"
+},{ 
+"question_number" : 9,    
+"question" : "<p class='question'>What are two rights in the Declaration of Independence?</p>",
+    "answer" : "<p class='answer'><ul><li>life</li><li>liberty</li><li>pursuit of happiness</li><ul></p>"
+},{
+    "question_number" : 10,
+    "question" : "<p class='question'>What is freedom of religion?</p>",
+    "answer" : "<p class='answer'>You can practice any religion, or not practice a religion.</p>"
+},{
+    "question_number" : 11,
+    "question" : "<p class='question'>What is the economic system in the United States?</p>",
+    "answer" : "<p class='answer'><ul><li>capitalist economy</li><li>market economy</li></ul></p>"
+},{
+    "question_number" : 12,
+    "question" : "<p class='question'>What is the “rule of law”?</p>",
+    "answer" : "<p class='answer'><ul><li>Everyone must follow the law.</li><li>Leaders must obey the law.</li><li>Government must obey the law.</li><li>No one is above the law.</li></ul></p>"
+},{
+    "question_number" : 13,
+    "question" : "<p class='question'>Name one branch or part of the government.</p>",
+    "answer" : "<p class='answer'><ul><li>Congress</li><li>legislative</li><li>President</li><li>executive</li><li>the courts</li></ul></p>"
+},{
+    "question_number" : 14,
+    "question" : "<p class='question'>What stops one branch of government from becoming too powerful?</p>",
+    "answer" : "<p class='answer'><ul><li>checks and balances</li><li>separation of powers</li></ul></p>"
+},{
+    "question_number" : 15,
+    "question" : "<p class='question'>Who is in charge of the executive branch?</p>",
+    "answer" : "<p class='answer'>The President</p>"
+},{
+    "question_number" : 16,
+    "question" : "<p class='question'>Who makes federal laws?</p>",
+    "answer" : "<p class='answer'><ul><li>Congress</li><li>Senate and House (of Representatives)</li><li>(U.S. or national) legislature</li></ul></p>"
+},{
+    "question_number" : 17,
+    "question" : "<p class='question'>What are the two parts of the U.S. Congress?</p>",
+    "answer" : "<p class='answer'>the Senate and House (of Representatives)</p>"
+},{
+    "question_number" : 18,
+    "question" : "<p class='question'>How many U.S. Senators are there?</p>",
+    "answer" : "<p class='answer'>one hundred (100)</p>"
+},{
+    "question_number" : 19,
+    "question" : "<p class='question'>We elect a U.S. Senator for how many years?</p>",
+    "answer" : "<p class='answer'>6 years</p>"
+},{
+    "question_number" : 20,
+    "question" : "<p class='question'>Who is one of your state’s U.S. Senators now?</p>",
+    "answer" : "<p class='answer'>Robert Casey</p>"
+},{
+    "question_number" : 21,
+    "question" : "<p class='question'>The House of Representatives has how many voting members?</p>",
+    "answer" : "<p class='answer'>four hundred thirty-five (435)</p>"
+},{
+    "question_number" : 22,
+    "question" : "<p class='question'>We elect a U.S. Representative for how many years?</p>",
+    "answer" : "<p class='answer'>2 years</p>"
+},{
+    "question_number" : 23,
+    "question" : "<p class='question'>Name your U.S. Representative.</p>",
+    "answer" : "<p class='answer'>Matt Cartwright</p>"
+},{
+    "question_number" : 24,
+    "question" : "<p class='question'>Who does a U.S. Senator represent?</p>",
+    "answer" : "<p class='answer'>all people of the state</p>"
+},{
+    "question_number" : 25,
+    "question" : "<p class='question'>Why do some states have more Representatives than other states?</p>",
+    "answer" : "<p class='answer'><ul><li>(because of) the state’s population</li><li>(because) they have more people</li><li>(because) some states have more people</li></ul></p>"
+},{
+    "question_number" : 26,
+    "question" : "<p class='question'>We elect a President for how many years?</p>",
+    "answer" : "<p class='answer'>4 years</p>"
+},{
+    "question_number" : 27,
+    "question" : "<p class='question'>In what month do we vote for President?</p>",
+    "answer" : "<p class='answer'>November</p>"
+},{
+    "question_number" : 28,
+    "question" : "<p class='question'>What is the name of the President of the United States now?</p>",
+    "answer" : "<p class='answer'>Joe Biden</p>"
+},{
+    "question_number" : 29,
+    "question" : "<p class='question'>What is the name of the Vice President of the United States now?</p>",
+    "answer" : "<p class='answer'>Kamala Harris</p>"
+},{
+    "question_number" : 30,
+    "question" : "<p class='question'>If the President can no longer serve, who becomes President?</p>",
+    "answer" : "<p class='answer'>Vice President (Kamala Harris)</p>"
+},{
+    "question_number" : 31,
+    "question" : "<p class='question'>If both the President and the Vice President can no longer serve, who becomes President?</p>",
+    "answer" : "<p class='answer'>Speaker of the House (Mike Johnson)</p>"
+},{
+    "question_number" : 32,
+    "question" : "<p class='question'>Who is the Commander in Chief of the military?</p>",
+    "answer" : "<p class='answer'>The President</p>"
+},{
+    "question_number" : 33,
+    "question" : "<p class='question'>Who signs bills to become laws?</p>",
+    "answer" : "<p class='answer'>The President</p>"
+},{
+    "question_number" : 34,
+    "question" : "<p class='question'>Who vetoes bills?</p>",
+    "answer" : "<p class='answer'>The President</p>"
+},{
+    "question_number" : 35,
+    "question" : "<p class='question'>What does the President’s Cabinet do?</p>",
+    "answer" : "<p class='answer'>Advises the president</p>"
+},{
+    "question_number" : 36,
+    "question" : "<p class='question'>What are two Cabinet-level positions?</p>",
+    "answer" : "<p class='answer'><ul><li>Secretary of Agriculture</li><li>Secretary of Commerce</li><li>Secretary of Defense</li><li>Secretary of Education</li><li>Secretary of Energy</li><li>Secretary of Health and Human Services</li><li>Secretary of Homeland Security</li><li>Secretary of Housing and Urban Development</li><li>Secretary of the Interior</li><li>Secretary of Labor</li><li>Secretary of State</li><li>Secretary of Transportation</li><li>Secretary of the Treasury</li><li>Secretary of Veterans Affairs</li><li>Attorney General</li><li>Vice President</li></ul></p>"
+},{
+    "question_number" : 37,
+    "question" : "<p class='question'>What does the judicial branch do?</p>",
+    "answer" : "<p class='answer'><ul><li>reviews laws</li><li>explains laws</li><li>resolves disputes (disagreements)</li><li>decides if a law goes against the Constitution</li></ul></p>"
+},{
+    "question_number" : 38,
+    "question" : "<p class='question'>What is the highest court in the United States?</p>",
+    "answer" : "<p class='answer'>Supreme Court</p>"
+},{
+    "question_number" : 39,
+    "question" : "<p class='question'>How many justices are on the Supreme Court?</p>",
+    "answer" : "<p class='answer'>Nine</p>"
+},{
+    "question_number" : 40,
+    "question" : "<p class='question'>Who is the Chief Justice of the United States now?</p>",
+    "answer" : "<p class='answer'>John Roberts</p>"
+},{
+    "question_number" : 41,
+    "question" : "<p class='question'>Under our Constitution, some powers belong to the federal government. What is one power of the federal government?</p>",
+    "answer" : "<p class='answer'><ul><li>to print money</li><li>to declare war</li><li>to create an army</li><li> to make treaties</li></ul></p>"
+},{
+    "question_number" : 42,
+    "question" : "<p class='question'>Under our Constitution, some powers belong to the states. What is one power of the states?</p>",
+    "answer" : "<p class='answer'><ul><li><li>provide schooling and education</li><li>provide protection (police)</li><li>provide safety (fire departments)</li><li>give a driver’s license</li><li>approve zoning and land use</li></ul></p>"
+},{
+    "question_number" : 43,
+    "question" : "<p class='question'>Who is the Governor of your state now?</p>",
+    "answer" : "<p class='answer'>Josh Shapiro</p>"
+},{
+    "question_number" : 44,
+    "question" : "<p class='question'>What is the capital of your state?</p>",
+    "answer" : "<p class='answer'>Harrisburg</p>"
+},{
+    "question_number" : 45,
+    "question" : "<p class='question'>What are the two major political parties in the United States?</p>",
+    "answer" : "<p class='answer'>Democratic and Republican</p>"
+},{
+    "question_number" : 46,
+    "question" : "<p class='question'>What is the political party of the President now?</p>",
+    "answer" : "<p class='answer'>Democract</p>"
+},{
+    "question_number" : 47,
+    "question" : "<p class='question'>What is the name of the Speaker of the House of Representatives now?</p>",
+    "answer" : "<p class='answer'>Mike Johnson</p>"
+},{
+    "question_number" : 48,
+    "question" : "<p class='question'>There are four amendments to the Constitution about who can vote. Describe one of them.</p>",
+    "answer" : "<p class='answer'></p>"
+},{
+    "question_number" : 49,
+    "question" : "<p class='question'>What is one responsibility that is only for United States citizens?</p>",
+    "answer" : "<p class='answer'></p>"
+},{
+    "question_number" : 50,
+    "question" : "<p class='question'>Name one right only for United States citizens.</p>",
+    "answer" : "<p class='answer'></p>"
+},{
+    "question_number" : 51,
+    "question" : "<p class='question'>What are two rights of everyone living in the United States?</p>",
+    "answer" : "<p class='answer'></p>"
+},{
+    "question_number" : 52,
+    "question" : "<p class='question'>What do we show loyalty to when we say the Pledge of Allegiance?</p>",
+    "answer" : "<p class='answer'></p>"
+},{
+    "question_number" : 53,
+    "question" : "<p class='question'>What is one promise you make when you become a United States citizen?</p>",
+    "answer" : "<p class='answer'></p>"
+},{
+    "question_number" : 54,
+    "question" : "<p class='question'>How old do citizens have to be to vote for President?</p>",
+    "answer" : "<p class='answer'>18</p>"
+},{
+    "question_number" : 55,
+    "question" : "<p class='question'>What are two ways that Americans can participate in their democracy?</p>",
+    "answer" : "<p class='answer'></p>"
+},{
+    "question_number" : 56,
+    "question" : "<p class='question'>When is the last day you can send in federal income tax forms?</p>",
+    "answer" : "<p class='answer'>April 15</p>"
+},{
+    "question_number" : 57,
+    "question" : "<p class='question'>When must all men register for the Selective Service?</p>",
+    "answer" : "<p class='answer'>between eighteen (18) and twenty-six (26)</p>"
+},{
+    "question_number" : 58,
+    "question" : "<p class='question'>What is one reason colonists came to America?</p>",
+    "answer" : "<p class='answer'></p>"
+},{
+    "question_number" : 59,
+    "question" : "<p class='question'>Who lived in America before the Europeans arrived?</p>",
+    "answer" : "<p class='answer'>American Indians ▪ Native Americans</p>"
+},{
+    "question_number" : 60,
+    "question" : "<p class='question'>What group of people was taken to America and sold as slaves?</p>",
+    "answer" : "<p class='answer'>Africans / People of Africa</p>"
+},{
+    "question_number" : 61,
+    "question" : "<p class='question'>Why did the colonists fight the British?</p>",
+    "answer" : "<p class='answer'></p>"
+},{
+    "question_number" : 62,
+    "question" : "<p class='question'>Who wrote the Declaration of Independence?</p>",
+    "answer" : "<p class='answer'>(Thomas) Jefferson</p>"
+},{
+    "question_number" : 63,
+    "question" : "<p class='question'=]When was the Declaration of Independence adopted?</p>",
+    "answer" : "<p class='answer'>July 4, 1776</p>"
+},{
+    "question_number" : 64,
+    "question" : "<p class='question'>There were 13 original states. Name three.</p>",
+    "answer" : "<p class='answer'>Pennsylvania, Massachusetts, New York, New Jersey</p>"
+},{
+    "question_number" : 65,
+    "question" : "<p class='question'>What happened at the Constitutional Convention?</p>",
+    "answer" : "<p class='answer'>The Founding Fathers wrote the Constitution.</p>"
+},{
+    "question_number" : 66,
+    "question" : "<p class='question'>When was the Constitution written?</p>",
+    "answer" : "<p class='answer'>1787</p>"
+},{
+    "question_number" : 67,
+    "question" : "<p class='question'>The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.</p>",
+    "answer" : "<p class='answer'></p>"
+},{
+    "question_number" : 68,
+    "question" : "<p class='question'>What is one thing Benjamin Franklin is famous for?</p>",
+    "answer" : "<p class='answer'></p>"
+},{
+    "question_number" : 69,
+    "question" : "<p class='question'>Who is the “Father of Our Country”?</p>",
+    "answer" : "<p class='answer'>George Washington</p>"
+},{
+    "question_number" : 70,
+    "question" : "<p class='question'>Who was the first President?</p>",
+    "answer" : "<p class='answer'>George Washington</p>"
+},{
+    "question_number" : 71,
+    "question" : "<p class='question'>What territory did the United States buy from France in 1803?</p>",
+    "answer" : "<p class='answer'>Louisiana</p>"
+},{
+    "question_number" : 72,
+    "question" : "<p class='question'>Name one war fought by the United States in the 1800s.</p>",
+    "answer" : "<p class='answer'>Civil War</p>"
+},{
+    "question_number" : 73,
+    "question" : "<p class='question'>Name the U.S. war between the North and the South.</p>",
+    "answer" : "<p class='answer'>American Civil War (War between the States)</p>"
+},{
+    "question_number" : 74,
+    "question" : "<p class='question'>Name one problem that led to the Civil War.</p>",
+    "answer" : "<p class='answer'>Slavery</p>"
+},{
+    "question_number" : 75,
+    "question" : "<p class='question'>What was one important thing that Abraham Lincoln did?</p>",
+    "answer" : "<p class='answer'>freed the slaves (Emancipation Proclamation)</p>"
+},{
+    "question_number" : 76,
+    "question" : "<p class='question'>What did the Emancipation Proclamation do?</p>",
+    "answer" : "<p class='answer'></p>"
+},{
+    "question_number" : 77,
+    "question" : "<p class='question'>What did Susan B. Anthony do?</p>",
+    "answer" : "<p class='answer'>fought for women’s rights and civil rights</p>"
+},{
+    "question_number" : 78,
+    "question" : "<p class='question'>Name one war fought by the United States in the 1900s</p>",
+    "answer" : "<p class='answer'>WWII</p>"
+},{
+    "question_number" : 79,
+    "question" : "<p class='question'>Who was President during World War I?</p>",
+    "answer" : "<p class='answer'>Woodrow Wilson</p>"
+},{
+    "question_number" : 80,
+    "question" : "<p class='question'>Who was President during the Great Depression and World War II?</p>",
+    "answer" : "<p class='answer'>Franklin Roosevelt</p>"
+},{
+    "question_number" : 81,
+    "question" : "<p class='question'>Who did the United States fight in World War II?</p>",
+    "answer" : "<p class='answer'>Japan, Germany, and Italy</p>"
+},{
+    "question_number" : 82,
+    "question" : "<p class='question'>Before he was President, Eisenhower was a general. What war was he in?</p>",
+    "answer" : "<p class='answer'>World War II</p>"
+},{
+    "question_number" : 83,
+    "question" : "<p class='question'>During the Cold War, what was the main concern of the United States?</p>",
+    "answer" : "<p class='answer'>Communism</p>"
+},{
+    "question_number" : 84,
+    "question" : "<p class='question'>What movement tried to end racial discrimination?</p>",
+    "answer" : "<p class='answer'>civil rights (movement)</p>"
+},{
+    "question_number" : 85,
+    "question" : "<p class='question'>What did Martin Luther King, Jr. do?</p>",
+    "answer" : "<p class='answer'>fought for civil rights and worked for equality for all Americans</p>"
+},{
+    "question_number" : 86,
+    "question" : "<p class='question'>What major event happened on September 11, 2001, in the United States?</p>",
+    "answer" : "<p class='answer'>Terrorists attacked the United States.</p>"
+},{
+    "question_number" : 87,
+    "question" : "<p class='question'>Name one American Indian tribe in the United States.</p>",
+    "answer" : "<p class='answer'>Sioux, Cherokee, Navajo, Apache</p>"
+},{
+    "question_number" : 88,
+    "question" : "<p class='question'>Name one of the two longest rivers in the United States.</p>",
+    "answer" : "<p class='answer'>Mississippi River - Missouri Rover</p>"
+},{
+    "question_number" : 89,
+    "question" : "<p class='question'>What ocean is on the West Coast of the United States?</p>",
+    "answer" : "<p class='answer'>Pacific</p>"
+},{
+    "question_number" : 90,
+    "question" : "<p class='question'>What ocean is on the East Coast of the United States?</p>",
+    "answer" : "<p class='answer'>Atlantic</p>"
+},{
+    "question_number" : 91,
+    "question" : "<p class='question'>Name one U.S. territory.</p>",
+    "answer" : "<p class='answer'>Guam / Puero Rico</p>"
+},{
+    "question_number" : 92,
+    "question" : "<p class='question'>Name one state that borders Canada.</p>",
+    "answer" : "<p class='answer'>New York, Vermont, North Dakota</p>"
+},{
+    "question_number" : 93,
+    "question" : "<p class='question'>Name one state that borders Mexico</p>",
+    "answer" : "<p class='answer'>Arizona</p>"
+},{
+    "question_number" : 94,
+    "question" : "<p class='question'>What is the capital of the United States?</p>",
+    "answer" : "<p class='answer'>Washington DC</p>"
+},{
+    "question_number" : 95,
+    "question" : "<p class='question'>Where is the Statue of Liberty?</p>",
+    "answer" : "<p class='answer'>Liberty Island</p>"
+},{
+    "question_number" : 96,
+    "question" : "<p class='question'>Why does the flag have 13 stripes?</p>",
+    "answer" : "<p class='answer'>because the stripes represent the 13 original colonies (one stripe per colony)</p>"
+},{
+    "question_number" : 97,
+    "question" : "<p class='question'>Why does the flag have 50 stars?</p>",
+    "answer" : "<p class='answer'>50 states in the US, each star represents a state</p>"
+},{
+    "question_number" : 98,
+    "question" : "<p class='question'>What is the name of the national anthem?</p>",
+    "answer" : "<p class='answer'>Star Spangled Banner</p>"
+},{
+    "question_number" : 99,
+    "question" : "<p class='question'>When do we celebrate Independence Day?</p>",
+    "answer" : "<p class='answer'>4th July</p>"
+},{
+    "question_number" : 100,
+    "question" : "<p class='question'>Name two national U.S. holidays?</p>",
+    "answer" : "<p class='answer'>Independence Day and Thanksgiving</p>"
+}]
