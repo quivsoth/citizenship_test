@@ -192,27 +192,27 @@
 },{
     "question_number" : 48,
     "question" : "<p class='question'>There are four amendments to the Constitution about who can vote. Describe one of them.</p>",
-    "answer" : "<p class='answer'></p>"
+    "answer" : "<p class='answer'><ul><li>Citizens eighteen (18) and older (can vote).</li><li>You don’t have to pay (a poll tax) to vote.</li><li>Any citizen can vote. (Women and men can vote.)</li><li>A male citizen of any race (can vote)</li></ul></p>"
 },{
     "question_number" : 49,
     "question" : "<p class='question'>What is one responsibility that is only for United States citizens?</p>",
-    "answer" : "<p class='answer'></p>"
+    "answer" : "<p class='answer'><ul><li>serve on a jury</li><li>vote in a federal election</li></ul></p>"
 },{
     "question_number" : 50,
     "question" : "<p class='question'>Name one right only for United States citizens.</p>",
-    "answer" : "<p class='answer'></p>"
+    "answer" : "<p class='answer'><ul><li>vote in a federal election</li><li>run for federal office</li></ul></p>"
 },{
     "question_number" : 51,
     "question" : "<p class='question'>What are two rights of everyone living in the United States?</p>",
-    "answer" : "<p class='answer'></p>"
+    "answer" : "<p class='answer'><ul><li>freedom of expression</li><li>freedom of speech</li><li>freedom of assembly</li><li>freedom to petition the government</li><li>freedom of religion</li><li>the right to bear arms</li></ul></p>"
 },{
     "question_number" : 52,
     "question" : "<p class='question'>What do we show loyalty to when we say the Pledge of Allegiance?</p>",
-    "answer" : "<p class='answer'></p>"
+    "answer" : "<p class='answer'><ul><li>The United States</li><li>The Flag</li></ul></p>"
 },{
     "question_number" : 53,
     "question" : "<p class='question'>What is one promise you make when you become a United States citizen?</p>",
-    "answer" : "<p class='answer'></p>"
+    "answer" : "<p class='answer'><ul><li>give up loyalty to other countries</li><li>defend the Constitution and laws of the United States</li><li>obey the laws of the United States</li><li>serve in the U.S. military (if needed)</li><li>serve (do important work for) the nation (if needed)</li><li>be loyal to the United States</li></ul></p>"
 },{
     "question_number" : 54,
     "question" : "<p class='question'>How old do citizens have to be to vote for President?</p>",
@@ -220,7 +220,7 @@
 },{
     "question_number" : 55,
     "question" : "<p class='question'>What are two ways that Americans can participate in their democracy?</p>",
-    "answer" : "<p class='answer'></p>"
+    "answer" : "<p class='answer'><ul><li>vote</li><li>join a political party</li><li>help with a campaign</li><li>join a civic group</li><li>join a community group</li><li>give an elected official your opinion on an issue</li><li>call Senators and Representatives</li><li>publicly support or oppose an issue or policy</li><li>run for office</li><li>write to a newspaper</li></ul></p>"
 },{
     "question_number" : 56,
     "question" : "<p class='question'>When is the last day you can send in federal income tax forms?</p>",
@@ -232,7 +232,7 @@
 },{
     "question_number" : 58,
     "question" : "<p class='question'>What is one reason colonists came to America?</p>",
-    "answer" : "<p class='answer'></p>"
+    "answer" : "<p class='answer'><ul><li>freedom</li><li>political liberty</li><li>religious freedom</li><li>economic opportunity</li><li>practice their religion</li><li>escape persecution</li></ul></p>"
 },{
     "question_number" : 59,
     "question" : "<p class='question'>Who lived in America before the Europeans arrived?</p>",
@@ -244,7 +244,7 @@
 },{
     "question_number" : 61,
     "question" : "<p class='question'>Why did the colonists fight the British?</p>",
-    "answer" : "<p class='answer'></p>"
+    "answer" : "<p class='answer'><ul><li>because of high taxes (taxation without representation)</li><li>because the British army stayed in their houses (boarding, quartering)</li><li>because they didn’t have self-government</li></ul></p>"
 },{
     "question_number" : 62,
     "question" : "<p class='question'>Who wrote the Declaration of Independence?</p>",
@@ -268,11 +268,11 @@
 },{
     "question_number" : 67,
     "question" : "<p class='question'>The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.</p>",
-    "answer" : "<p class='answer'></p>"
+    "answer" : "<p class='answer'><ul><li>(James) Madison</li><li>(Alexander) Hamilton</li><li>(John) Jay</li><li>Publius</li></ul></p>"
 },{
     "question_number" : 68,
     "question" : "<p class='question'>What is one thing Benjamin Franklin is famous for?</p>",
-    "answer" : "<p class='answer'></p>"
+    "answer" : "<p class='answer'><ul><li>U.S. diplomat</li><li>oldest member of the Constitutional Convention</li><li>first Postmaster General of the United States</li><li>writer of “Poor Richard’s Almanac”</li><li>started the first free libraries</li></ul></p>"
 },{
     "question_number" : 69,
     "question" : "<p class='question'>Who is the “Father of Our Country”?</p>",
@@ -304,7 +304,7 @@
 },{
     "question_number" : 76,
     "question" : "<p class='question'>What did the Emancipation Proclamation do?</p>",
-    "answer" : "<p class='answer'></p>"
+    "answer" : "<p class='answer'><ul><li>freed the slaves</li><li>freed slaves in the Confederacy</li><li>freed slaves in the Confederate states</li><li>freed slaves in most Southern states</li></ul></p>"
 },{
     "question_number" : 77,
     "question" : "<p class='question'>What did Susan B. Anthony do?</p>",
