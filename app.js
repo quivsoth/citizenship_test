@@ -7,7 +7,7 @@ const data = require('./public/questions.json');
 
 // Initialize the app
 const app = express();
-const port = 80;
+const port = 8080;
 
 // Set up bodyParser middleware to handle form submissions
 app.use(bodyParser.urlencoded({ extended: true }));
