@@ -23,12 +23,14 @@ app.use(express.static('public'));
 // Route for the homepage
 app.get('/', (req, res) => {
 
-    let selectedItems = getRandomItems(data, 10);
-    // console.log(selectedItems);
+    //random 10
+    //let output = getRandomItems(data, 10);
+    let output = shuffleArray(data);
 
     // Render the 'home' template and pass the json data
     //res.render('home', { data });
-    res.render('home', { selectedItems });
+    res.render('home', { output });
+    
 });
 
 // Start the server
@@ -49,3 +51,13 @@ function getRandomItems(arr, count) {
     // Return the first `count` items from the shuffled array
     return shuffled.slice(0, count);
 }
+
+
+function shuffleArray(arr) {
+    let shuffledArray = arr.slice(); // Create a copy of the array to avoid mutation
+    for (let i = shuffledArray.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1)); // Random index
+      [shuffledArray[i], shuffledArray[j]] = [shuffledArray[j], shuffledArray[i]]; // Swap elements
+    }
+    return shuffledArray;
+  }
